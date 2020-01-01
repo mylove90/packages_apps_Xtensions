@@ -1341,4 +1341,6 @@
 
     <string name="qs_bg_use_new_tint">Tint</string>
     <string name="qs_bg_use_new_tint_summary">Enable QS tiles tint style</string>
+    <string name="enable_oneui">OneUI</string>
+    <string name="enable_oneui_summary">Show spacer above settings actionbar for easier use with one hand\nNOTE: restart settings app to see effect</string>
 </resources>
