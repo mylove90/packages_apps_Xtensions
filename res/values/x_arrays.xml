@@ -615,7 +615,7 @@
         <item>8</item>
     </string-array>
 
-    <!-- QS SystemInfo -->
+    <!-- QS SystemInfo 
     <string-array name="qs_system_info_entries">
         <item>@string/qs_system_info_off</item>
         <item>@string/qs_system_info_cpu_temp</item>
@@ -629,7 +629,7 @@
         <item>2</item>
         <item>3</item>
         <item>4</item>
-    </string-array>
+    </string-array>-->
 
     <!-- Battery Mod for Android 10 -->
     <string-array name="status_bar_battery_style_entries" translatable="false">
