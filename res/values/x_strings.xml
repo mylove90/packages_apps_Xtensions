@@ -1338,6 +1338,8 @@
 	<string name="dialog_team_title">The team</string>
     <string name="developer_title">Developer</string>
     <string name="maintainer_title">Maintainer</string>
+    <string name="designer_title">Designer</string>
+
 
     <string name="qs_bg_use_new_tint">Tint</string>
     <string name="qs_bg_use_new_tint_summary">Enable QS tiles tint style</string>
